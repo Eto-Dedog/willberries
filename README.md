@@ -1,4 +1,4 @@
-# Проект willberries
+# Проект willberries - https://eto-dedog.github.io/willberries/
 ## Языки использованные при создании сайта
 - html
 - css
